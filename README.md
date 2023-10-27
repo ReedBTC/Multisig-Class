@@ -2,9 +2,9 @@
 
 Duration: 4-6 hours (all day, lunch will be provided - pizza)
 
-Cost: $70 per student (Only Payable in Bitcoin)
+Cost: $75 per student (Only Payable in Bitcoin)
 
-Maximum Class Size: 5 students
+Class Size: 5 students
 
 Location: Library Community Room or Similar within ~100 miles of Western Massachusetts
 
