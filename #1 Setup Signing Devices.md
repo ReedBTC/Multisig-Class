@@ -1,7 +1,6 @@
 Setting up a Ledger Nano S
   1.	Go to www.ledger.com
-   
-      a.	Products
+         a.	Products
      
         i.	Download Ledger Live
   
