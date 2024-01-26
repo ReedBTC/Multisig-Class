@@ -1,8 +1,8 @@
 Setting up a Ledger Nano S
   1.	Go to www.ledger.com
 
-    	a.	Products > Download Ledger Live
-      b.	Download the app
+    a.	Products > Download Ledger Live
+    b.	Download the app
  
   2.	Downloads > Run the Ledger Live installer
  
