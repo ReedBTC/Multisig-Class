@@ -10,7 +10,7 @@ Location: Library Community Room or Similar within ~100 miles of Western Massach
 
 Description:
 
-This is an in-person classroom course designed to teach students how to securely setup, use, and completely restore a 2-of-3 multi-sig wallet. The first portion of the class will cover the following topics (https://docs.google.com/presentation/d/1HvbUzVwb6zZovbGw-Dn655uhes6CXJ90I7NsKqB-1z8/edit?usp=sharing):
+This is an in-person classroom course designed to teach students how to securely setup, use, and completely restore a 2-of-3 multi-sig wallet. The first portion of the class will cover the [following topics](https://docs.google.com/presentation/d/1HvbUzVwb6zZovbGw-Dn655uhes6CXJ90I7NsKqB-1z8/edit?usp=sharing):
 
 - Overview of Multisig Wallets
   - Pros and Cons
