@@ -1,21 +1,26 @@
 Setting up a Ledger Nano S
   1.	Go to www.ledger.com
-         a.	Products
+
+    	a.	Products
      
         i.	Download Ledger Live
   
       b.	Download the app
  
   2.	Downloads > Run the Ledger Live installer
+ 
   3.	Run Ledger Live
+   
     a.	Get Started
     b.	Plug in Ledger and Select Ledger Nano S
     c.	Setup a New Nano S
     d.	Click through the basics
     e.	Click OK, I’m Ready!
+   
        i.	Follow Instructions
       ii.	Set PIN = 1234
       iii.	Record Seed Phrase
+  
     f.	Once your Ledger is setup, Click “My Ledger” in Ledger Live
     g.	Update Firmware (if needed)
     h.	Install the Bitcoin (BTC) App
