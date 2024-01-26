@@ -22,6 +22,7 @@ Setting up a Ledger Nano S
     g.	Update Firmware (if needed)
     h.	Install the Bitcoin (BTC) App
 
+
 Setting Up Trezor
 
   1.	Go to www.trezor.io > App > Download for desktop
@@ -41,6 +42,7 @@ Setting Up Trezor
       iii.	Set PIN = 1234
 
     d.	Update Bitcoin Only Firmware (if needed)
+
 
 Setting Up ColdCard
 
