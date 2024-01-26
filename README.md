@@ -32,3 +32,5 @@ Recognizing that different students will have different skill levels and interes
 - How to encrypt your wallet configuration files using VeraCrypt
 - How to restore your multisig wallet using Nunchuk Desktop 
 - How to sign a transaction using Nunchuk Desktop if you don’t have your Signing Device (seed phrase only)
+
+All Classroom Material is Linked to a Google Slides Package [here](https://docs.google.com/document/d/1ObI2MG-4tfieiR7oeaxd31AQwRXTP_4P/edit?usp=sharing&ouid=108875103381313921597&rtpof=true&sd=true)
