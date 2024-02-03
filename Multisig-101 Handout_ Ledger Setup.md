@@ -1,10 +1,10 @@
-[#1 Setting up a Ledger Nano S]{.underline}
+**#1 Setting up a Ledger Nano S**
 
-1.  Go to [[www.ledger.com]{.underline}](http://www.ledger.com), click
-    on [Products]{.underline}, then click on [Download Ledger
-    Live]{.underline}
+1.  Go to [www.ledger.com](http://www.ledger.com), click
+    on **Products**, then click on **Download Ledger
+    Live**
 
-    a.  Click [Download the App]{.underline} \> Windows App
+    a.  Click **Download the App** \> Windows App
 
 2.  Navigate to your downloads and run the Ledger Live installer
 
@@ -13,16 +13,16 @@
 
 3.  In Ledger Live:
 
-    a.  Click on [Get Started]{.underline}, click [Ledger Nano
-        S,]{.underline} then click [Setup a New Nano S]{.underline}
+    a.  Click on **Get Started**, click **Ledger Nano
+        S,** then click **Setup a New Nano S**
 
-    b.  Click through the basics and then click [OK, I'm
-        Ready!]{.underline}
+    b.  Click through the basics and then click **OK, I'm
+        Ready!**
 
     c.  click that you understand that you need to keep your PIN private
 
-    d.  click [Set up PIN code,]{.underline} Click [Next
-        Step]{.underline}, then Click [Get Started]{.underline}
+    d.  click **Set up PIN code** Click **Next
+        Step**, then Click **Get Started**
 
 4.  Plug in Ledger (with the ledger branded USB cable)
 
@@ -42,10 +42,10 @@
 
     a.  In Ledger Live:
 
-        i.  Click to indicate that you understand, click [Recovery
-            Phrase]{.underline}, click [Next step,]{.underline} click
-            [Next Step]{.underline} again, then click [Get
-            Started]{.underline}
+        i.  Click to indicate that you understand, click **Recovery
+            Phrase**, click **Next step,** click
+            **Next Step** again, then click **Get
+            Started**
 
     b.  On the Ledger Device: Your Device will Generate 24 Words\>":
 
@@ -70,16 +70,16 @@
 
     c.  In Ledger Live:
 
-        i.  click [OK I'm Done]{.underline}, then click [Get
-            Started]{.underline}
+        i.  click **OK I'm Done**, then click **Get
+            Started**
 
-        ii. Take the quiz and then click [Next Step]{.underline}
+        ii. Take the quiz and then click **Next Step**
 
 6.  Genuine Check
 
     a.  In Ledger Live:
 
-        i.  Click [Check my Nano]{.underline}
+        i.  Click **Check my Nano**
 
     b.  On the Ledger Device:
 
@@ -87,7 +87,7 @@
 
     c.  In Ledger Live:
 
-        i.  All Good! \> Click [Continue]{.underline}
+        i.  All Good! \> Click **Continue**
 
         ii. On the right of the screen in Ledger Live, scroll down and
             click on "My Ledger"
