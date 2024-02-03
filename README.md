@@ -12,6 +12,7 @@ Description:
 
 This is an in-person classroom course designed to teach students how to securely setup, use, and completely restore a 2-of-3 multi-sig wallet. The first portion of the class will cover the [following topics](https://docs.google.com/presentation/d/1HvbUzVwb6zZovbGw-Dn655uhes6CXJ90I7NsKqB-1z8/edit?usp=sharing):
 
+
 Part 1: Classroom Exercise: Setting up the signing devices
 - Video Overview ([Ledger Nano S](https://youtu.be/QTKrp08sm_Q), [Trezor One](https://youtu.be/jT6pW0XFYKI), [ColdCard Mk4](https://youtu.be/jgY-OoYBP94))
 - Instruction Sheets (Ledger Nano S, Trezor One, ColdCard Mk4)
@@ -27,6 +28,7 @@ Part 3: Learning: How to Restore signing devices from seed phrases
 Part 4: Multisig-201 Preview: Restore multi-sig wallet in Sparrow
 - [Video Overview](https://youtu.be/IOUue4e4rzY)
 - Instruction Sheet - for reference only
+
 
 More advanced students may be able to break into the Multisig-201 course material:
 - Reset signing devices
