@@ -1,6 +1,6 @@
-**Multi-Sig Self-Custody Classroom Course**
+**Multisig-101: Intorduction to Multisig - Classroom Course**
 
-Duration: 4-6 hours
+Duration: 3-4 hours
 
 Cost: $75 per student (Only Payable in Bitcoin)
 
@@ -12,25 +12,23 @@ Description:
 
 This is an in-person classroom course designed to teach students how to securely setup, use, and completely restore a 2-of-3 multi-sig wallet. The first portion of the class will cover the [following topics](https://docs.google.com/presentation/d/1HvbUzVwb6zZovbGw-Dn655uhes6CXJ90I7NsKqB-1z8/edit?usp=sharing):
 
-- Overview of Multisig Wallets
-  - Pros and Cons
-  - Multisig Best Practices
+Part 1: Classroom Exercise: Setting up the signing devices
+	- Video Overview ([Ledger Nano S](https://youtu.be/QTKrp08sm_Q), [Trezor One](https://youtu.be/jT6pW0XFYKI), [ColdCard Mk4](https://youtu.be/jgY-OoYBP94))
+	- Instruction Sheets (Ledger Nano S, Trezor One, ColdCard Mk4)
+Part 2: Classroom Exercise: Building a multi-sig wallet in Sparrow
+	- [Video Overview](https://youtu.be/DtudBLoL54c)
+	- Instruction Sheet
+Part 3: Learning: How to Restore signing devices from seed phrases
+	- Video Overview ([Ledger Nano S](https://youtu.be/ORkU7cLnHKY), [Trezor One](https://youtu.be/JMwjS5mcEPA), [ColdCard Mk4](https://youtu.be/d6XtpmBB6TI))
+	- Instruction Sheets - for reference only (Ledger Nano S, Trezor One, ColdCard Mk4)
+Part 4: Multisig-201 Preview: Restore multi-sig wallet in Sparrow
+	- [Video Overview](https://youtu.be/IOUue4e4rzY)
+	- Instruction Sheet - for reference only
 
-After the lecture portion of the class, each student will be provided with a laptop and 3 different signing devices (hardware wallets), which will all need to be retuned at the end of class and are for classroom use ONLY. Students may NOT use their own computers or their own signing devices during the hands-on portion of the class; this is for instruction and practice ONLY.  During the class we will cover the following topics as the base portion of the class:  
-
-- Setting up the signing devices
-  - Ledger, Trezor, ColdCard
-- Building a Multi-sig Wallet in Sparrow
+More advanced students may be able to break into the Multisig-201 course material:
 - Reset signing devices
 - Restore signing devices from seed phrases
 - Restore Multi-sig Wallet in Sparrow
 - Sign transaction with restored wallet
-
-Recognizing that different students will have different skill levels and interests in more advanced topics, handouts will be offered on the following more advanced topics or can be shared with the whole class if there is common interest:
-- How to verify your software download
-	- Sparrow
-- How to encrypt your wallet configuration files using VeraCrypt
-- How to restore your multisig wallet using Nunchuk Desktop 
-- How to sign a transaction using Nunchuk Desktop if you don’t have your Signing Device (seed phrase only)
 
 All Classroom Material is Linked to a Google Slides Package [here](https://docs.google.com/document/d/1ObI2MG-4tfieiR7oeaxd31AQwRXTP_4P/edit?usp=sharing&ouid=108875103381313921597&rtpof=true&sd=true)
