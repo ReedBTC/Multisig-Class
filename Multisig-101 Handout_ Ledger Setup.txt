@@ -1,15 +1,15 @@
 ﻿#1 Setting up a Ledger Nano S
 
-1. Go to www.ledger.com, click on Products, then click on Download Ledger Live
-	a. Click Download the App > Windows App
+1. Go to www.ledger.com, click on "Products", then click on "Download Ledger Live"
+	a. Click "Download the App" > Windows App
 2. Navigate to your downloads and run the Ledger Live installer
-	a. Keep all default installation parameters and at the end leave the box
-	   checked to “Run Ledger Live”
+	a. Perform a default installation and check the box to “Run Ledger Live”
 3. In Ledger Live:
-	a. Click on Get Started, click Ledger Nano S, then click Setup a New Nano S
-	b. Click through the basics and then click OK, I’m Ready!
+	a. Click on "Get Started", click "Ledger Nano S", then click "Setup a New
+	   Nano S"
+	b. Click through the basics and then click "OK, I’m Ready!"
 	c. click that you understand that you need to keep your PIN private
-	d. click Set up PIN code, Click Next Step, then Click Get Started
+	d. click "Set up PIN code", click "Next Step", then click "Get Started"
 4. Plug in Ledger (with the ledger branded USB cable)
 	a. On the Ledger Device: “Welcome to Ledger Nano S >”:
 		i. Use the buttons to navigate right and click both buttons when you
@@ -20,8 +20,8 @@
 		iv. Confirm the PIN as 1234 following the same process. 
 5. Seed Phrase (Secret Recovery Phrase)
 	a. In Ledger Live:
-		i. Click to indicate that you understand, click Recovery Phrase,
- 		   click Next step, click Next Step again, then click Get Started
+		i. Click to indicate that you understand, click "Recovery Phrase",
+ 		   click "Next step", click "Next Step", then click "Get Started"
 	b. On the Ledger Device: Your Device will Generate 24 Words>”:
 		i. Click to the right and press both buttons when you see “Press
  		   both buttons to continue”
@@ -36,15 +36,15 @@
 		vi. Once you confirm all 24 words, click to the right and press both
  		    buttons when you see “Press both buttons to continue”
 	c. In Ledger Live:
-		i. click OK I’m Done, then click Get Started
-		ii. Take the quiz and then click Next Step 
+		i. click "OK I’m Don"e, then click "Get Started"
+		ii. Take the quiz and then click "Next Step" 
 6. Genuine Check
 	a. In Ledger Live:
 		i. Click Check my Nano
 	b. On the Ledger Device:
 		i. Click both buttons when you see “Allow Ledger Manager”
 	c. In Ledger Live:
-		i. All Good! > Click Continue 
+		i. All Good! > click "Continue" 
 		ii. On the right of the screen in Ledger Live, scroll down and click
  		    on “My Ledger”
 		iii. Click “Install” on the Bitcoin (BTC) App
