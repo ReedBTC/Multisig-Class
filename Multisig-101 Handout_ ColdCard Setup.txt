@@ -20,3 +20,4 @@ Note: This device has been used in previous classes and already has a PIN assign
 	   word you wrote down for the number shown; do this for all 24 words
 	i. Enable NFC? Yes. Click the Enter button (check mark)
 	j. Disable USB port? Yes. Click the Enter button (check mark)
+3. Done! You can unplug your ColdCard
