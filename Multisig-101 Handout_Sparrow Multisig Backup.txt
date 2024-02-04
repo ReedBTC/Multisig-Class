@@ -1,0 +1,33 @@
+﻿#5 Backup Multisig Wallet in Sparrow
+
+1. In the Sparrow software (on the computer) Save 3 different versions of the
+   Classroom Test Multisig Wallet configuration file to the Desktop
+  a. Above the Classroom Test Tab at the top of the screen, Click "File" and then
+     click on "Export Wallet"
+    i. BSMS: Click "Export File" and save the file to the Desktop
+  b. Click again on "File" and then click on "Export Wallet"
+    i. Sparrow: Click "Export File" and save the file to the Desktop
+  c. Click again on "File" and then click on "Export Wallet"
+    i. ColdCard Multisig: Click "Export File" and save the file to the Desktop
+2. Configure ColdCard to Sign Transactions with the Multisig Wallet by loading a
+   copy of the ColdCard configuration file onto the ColdCard
+  a. Click again on "File" and then click on "Export Wallet"
+    i. ColdCard Multisig: Click "Export File" and save the file to the ColdCard SD
+       Card (should be still plugged in from the XPUB import step)
+    ii. Remove the ColdCard SD Card from USB adapter plugged into the computer and
+        insert it back into the ColdCard
+  b. On the ColdCard Device:
+    i. If your ColdCard is unplugged, power it back on by plugging it in with the
+       USB-C cable and log back in by entering the PIN prefix (12) and the rest of
+       the PIN (1234)
+    ii. If your ColdCard is still plugged in, then click the X Button until you are
+        back to the home screen
+  c. From the ColdCard home screen, scroll down and select "Settings", then select
+     "Multisig Wallets", then select "Import from File" and click the Enter button
+    i. Select the Classroom Test file and click the Enter Button
+    ii. Create new Multisig Wallet? Scroll down to confirm and click the Enter
+        Button
+3. Congratulations! Your configuration files are saved and your ColdCard has been
+   configured!
+
+
