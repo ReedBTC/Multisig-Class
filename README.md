@@ -15,11 +15,11 @@ This is an in-person classroom course designed to teach students how to securely
 
 Part 1: Classroom Exercise: Setting up the signing devices
 - Video Overview ([Ledger Nano S](https://youtu.be/poxWf5qDk_g), [Trezor One](https://youtu.be/jT6pW0XFYKI), [ColdCard Mk4](https://youtu.be/aPWbqBrlbAY))
-- Instruction Sheets (Ledger Nano S, Trezor One, ColdCard Mk4)
+- Instruction Sheets ([Ledger Nano S](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-101%20Handout_%20Ledger%20Setup.txt), [Trezor One](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-101%20Handout_%20Trezor%20Setup.txt), [ColdCard Mk4](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-101%20Handout_%20ColdCard%20Setup.txt))
  
 Part 2: Classroom Exercise: Building a multi-sig wallet in Sparrow
 - [Video Overview](https://youtu.be/DtudBLoL54c)
-- Instruction Sheet
+- Instruction Sheets ([Multisig Setup](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-101%20Handout_Sparrow%20Multisig%20Setup.txt), [Multisig Backup](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-101%20Handout_Sparrow%20Multisig%20Backup.txt))
  
 Part 3: Learning: How to Restore signing devices from seed phrases
 - Video Overview ([Ledger Nano S](https://youtu.be/ORkU7cLnHKY), [Trezor One](https://youtu.be/JMwjS5mcEPA), [ColdCard Mk4](https://youtu.be/d6XtpmBB6TI))
