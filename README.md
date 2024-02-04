@@ -23,11 +23,11 @@ Part 2: Classroom Exercise: Building a multi-sig wallet in Sparrow
  
 Part 3: Learning: How to Restore signing devices from seed phrases
 - Video Overview ([Ledger Nano S](https://youtu.be/ORkU7cLnHKY), [Trezor One](https://youtu.be/JMwjS5mcEPA), [ColdCard Mk4](https://youtu.be/d6XtpmBB6TI))
-- Instruction Sheets - for reference only (TBD)
+- Instruction Sheets - for reference only (Coming Soon!)
  
 Part 4: Multisig-201 Preview: Restore multi-sig wallet in Sparrow
 - [Video Overview](https://youtu.be/IOUue4e4rzY)
-- Instruction Sheet - for reference only (TBD)
+- Instruction Sheet - for reference only (Coming Soon!)
 
 
 More advanced students may be able to break into the Multisig-201 course material:
