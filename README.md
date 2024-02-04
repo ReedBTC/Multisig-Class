@@ -14,7 +14,7 @@ This is an in-person classroom course designed to teach students how to securely
 
 
 Part 1: Classroom Exercise: Setting up the signing devices
-- Video Overview ([Ledger Nano S](https://youtu.be/poxWf5qDk_g), [Trezor One](https://youtu.be/jT6pW0XFYKI), [ColdCard Mk4](https://youtu.be/jgY-OoYBP94))
+- Video Overview ([Ledger Nano S](https://youtu.be/poxWf5qDk_g), [Trezor One](https://youtu.be/jT6pW0XFYKI), [ColdCard Mk4](https://youtu.be/aPWbqBrlbAY))
 - Instruction Sheets (Ledger Nano S, Trezor One, ColdCard Mk4)
  
 Part 2: Classroom Exercise: Building a multi-sig wallet in Sparrow
