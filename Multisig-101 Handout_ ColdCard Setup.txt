@@ -1,0 +1,22 @@
+﻿#3: Setting Up ColdCard
+
+Note: This device has been used in previous classes and already has a PIN assigned
+
+1. Power on the ColdCard using the USB-C cable (does not need to be connected to
+   the computer)
+2. On ColdCard
+	a. Enter the PIN Prefix PIN = 12
+	b. Recognize words? These words are NOT part of the seed.  They just
+	   confirm that this is the same device you have setup previously.  Click
+	   the Enter button (check mark)
+	c. Enter Rest of PIN = 1234
+	d. Select New Seed Words and click the Enter button (check mark)
+	e. Select 24 word (default) and click the Enter button (check mark)
+	f. Write down each word by hand on your paper seed phrase sheet (use the
+	   up and down arrows on the 5 and 8 buttons to scroll through the list
+	   of 24 words)
+	g. Continue scrolling down and click the Enter button (check mark)
+	h. Confirm each word by clicking the number associated with the correct
+	   word you wrote down for the number shown; do this for all 24 words
+	i. Enable NFC? Yes. Click the Enter button (check mark)
+	j. Disable USB port? Yes. Click the Enter button (check mark)
