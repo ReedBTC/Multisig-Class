@@ -1,0 +1,46 @@
+﻿#2: Setting Up Trezor One
+
+1. Go to www.trezor.io, click App, click “Download for desktop”
+2. Navigate to your downloads and run the Trezor Suite installer
+	a. Perform a default installation and check the box to “Run Trezor Suite”
+3. Trezor Suite (Computer)
+	a. Disable Anonymous data collection
+	b. Connect your Trezor to the computer via USB
+	c. Have you used this Trezor before? Click “Yes, set up my Trezor”
+		i. This device has been used in prior classes; however, if this 
+		   was new and never used before, you would click no
+	d. Firmware Ready: Click “Continue”
+4. Create New Wallet:
+	a. In Trezor Suite (Computer)
+		i. Click, “Create new wallet”, click “Standard Seed Backup” 
+	b. On Trezor Device (Device)
+		i. Click Confirm
+	c. In Trezor Suite (Computer)
+		i. Click “Create backup”
+		ii. Click on each of the three check boxes and click “Begin Backup”
+	d. On Trezor Device(Device)
+		i. Write down each word by hand on your paper seed phrase sheet
+		   (click next to go to the next word)
+		ii. Once you confirm the 24th word, the 1st word will appear again
+		    so you can check that you wrote it down correctly; do this for
+		    all 24 words
+5. Set PIN
+	a. In Trezor Suite (Computer)
+		i. Click “Continue to PIN”
+	b. On Trezor Device (Device)
+		i. Click Confirm
+	c. In Trezor Suite (Computer)
+		i. Look at the randomized map of numbers displayed on the Trezor
+		   Device and click the associated location on the blank PIN pad 
+		   on Trezor Suite on the computer to assign the PIN as 1234 for
+		   this classroom exercise
+		ii. Click “Enter PIN”
+		iii. Repeat this process to confirm the PIN as 1234 and click
+		     “Enter PIN”
+		iv. PIN set: click “Continue”
+6. Activate Coins: 
+		a. Update Bitcoin Only Firmware (if needed)
+		b. Click “Complete setup”
+		c. Click “Access Suite”
+		d. Click “Standard wallet (No passphrase)”
+7. Your wallet is ready to use! You can unplug your Trezor.
