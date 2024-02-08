@@ -21,7 +21,7 @@
     ii. Click on the "Keystore 2" tab and plug your Trezor Device to the Computer
     iii. In the Keystore 2 tab at the bottom click on "Connected Hardware Wallet"
          1. Click "Scan" and when Trezor One shows up, click on "Unlock"
-	 2. Look Trezor Device and click the associated location on the blank
+	 2. Look at the Trezor Device and click the associated location on the blank
 	    PIN pad in Sparrow (on the computer) (PIN = 1234)
 	 3. From the dropdown next to Send Passphrase select "Toggle Passphrase Off"
          4. On the Trezor Device, click to confirm no Passphrase
