@@ -1,0 +1,45 @@
+﻿#2a Restore a Multisig Wallet in Nunchuk Desktop
+
+1. Go to www.nunchuk.io/, scroll to bottom of the page and click on "Download app 
+   for Windows"
+  a. Click on "nunchuk-window-v1.9.28.zip" to download
+  b. Navigate to the Downloads folder in the file explorer, right click on the
+     Nunchuk zip file and Select Extract All... then click "Extract"
+2. Run the Nunchuk.exe file in the folder that opens up
+  a. Click "More Info" and Click "Run Anyway"
+  b. Install for All users and then complete the installation using the default
+     options and check the box to "Launch Nunchuk"
+3. In the Nunchuk Software, click "Get Started" and Click "Got it" to stay in 
+   Guest Mode
+4. Add 1st Key: In Nunchuk, click on the + sign next to "Keys" on the middle left
+  a. Click "Add Hardware Key" then click "Continue"
+    i. Plug your Ledger Device into the computer and on the Ledger Device:
+      1. Enter PIN = 1234 and open the Bitcoin App by pressing both buttons
+    ii. In Nunchuk, click "Continue"
+      1. Key Name = Ledger Nano S
+      2. Click Refresh Devices, select the ledger and click "Add Key"
+      3. Once it imports the key information, click "Close"
+5. Add 2nd Key: In Nunchuk, click on the + sign next to "Keys" on the middle left
+  a. Click "Add Hardware Key" then click "Continue" then Click "Add an air-gapped
+     key"
+    i. On the ColdCard Device:
+      1. Enter the PIN Prefix = 12, Recognize words? Yes. Click the Enter button, 
+         and enter Rest of PIN = 1234
+      2. Navigate down and select Settings, then select Multisig Wallets, then 
+         select Export XPUB
+        a. Click the Enter button (check mark)
+        b. Account Number: Click the 0 button and click the Enter button 
+        c. Click the 1 button to save multisig XPUB file to SD Card
+    ii. Take out the microSD card, inset it into the USB adaptor provided and plug
+        it into the computer. 
+  b. In Nunchuk, click Import via file
+    i. Navigate to the USB drive with the SD card in it, select the .json file and
+       click "Open"
+    ii. Add a key name = ColdCard
+    iii. Click Add Key then click "Close"
+6. Restore Wallet: In Nunchuk, click on the + sign next to "Wallets" in the top 
+   left
+  a. Click Import Wallet
+  b. Click Recover via BSMS/descriptors/config file
+    i. Navigate to Desktop>Classroom Restore and select the .bsms file
+    ii. Click the X in the Wallet info window to close it
