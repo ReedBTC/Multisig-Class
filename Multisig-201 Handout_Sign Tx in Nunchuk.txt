@@ -1,8 +1,7 @@
 ﻿#2b Sign Transaction in Nunchuk
 
-1. In Nunchuk, Click Receive
-  a. Under the Quick Receive address QR code, click "copy address" 
-  b. Click the X in the Receive funds window
+1. In Nunchuk, Under the Quick Receive address QR code, click "Copy"
+  a. Click the X in the Receive funds window
 2. Click on Send
   a. To Address: [Paste receive address]
   b. Amount: Click the check box to "Send all" then Click "Continue"
