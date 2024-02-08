@@ -1,0 +1,39 @@
+﻿#3a Restore a Multisig Wallet in Nunchuk Desktop & 
+
+1. Clear out wallet & keys from #2
+  a. Click on "View wallet config", click on "More options" and click on
+     "Delete wallet"
+    i. Type "DELETE" and click on "Delete"
+  b. Click on each key and click on "Remove key" and click "Yes"
+2. Add 1st Key: In Nunchuk, click on the + sign next to "Keys" on the middle left
+  a. Click on "Add software Key" then click "Recover key with seed"
+    i. Type in your Ledger Nano S seed phrase and click "Continue"
+    ii. Key Name = "Ledger Nano S Seed"
+    iii. Click "I don't need a passphrase" and click "Close"
+3. Add 2nd Key: In Nunchuk, click on the + sign next to "Keys" on the middle left
+  a. Click on "Add software Key" then click "Recover key with seed"
+    i. Type in your Trezor One seed phrase and click "Continue"
+    ii. Key Name = "Trezor One Seed"
+    iii. Click "I don't need a passphrase" and click "Close"
+4. Restore Wallet: In Nunchuk, click on the + sign next to "Wallets" in the top 
+   left
+  a. Click Import Wallet
+  b. Click Recover via BSMS/descriptors/config file
+    i. Navigate to Desktop>Classroom Restore and select the .bsms file
+    ii. Click the X in the Wallet info window to close it
+
+#3b Sign a Tx without Signing Devices 
+
+1. In Nunchuk, under the Quick Receive address QR code, click "Copy"
+  a. Click the X in the Receive funds window
+2. Click on Send
+  a. To Address: [Paste receive address]
+  b. Amount: Click the check box to "Send all" then Click "Continue"
+3. Leave default send settings and click "Confirm and create transaction"
+4. Click the Sign button next to each key and click Yes to confirm you want to sign
+  a. At this point the transaction is signed and could be broadcast into the
+     mempool, however, we will just cancel the transaction to save the fees for
+     another class :)
+    i. Click More Options
+    ii. Click Remove Transaction
+
