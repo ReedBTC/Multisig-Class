@@ -24,8 +24,10 @@
         back to the home screen
   c. From the ColdCard home screen, scroll down and select "Settings", then select
      "Multisig Wallets", then select "Import from File" and click the Enter button
-    i. Select the Classroom Test file and click the Enter Button
-    ii. Create new Multisig Wallet? Scroll down to confirm and click the Enter
+    i. Pick multisig wallt file to import (.txt) - There is only file to pick from:
+       Click the Enter button
+    ii. Select the Classroom Test file and click the Enter Button
+    iii. Create new Multisig Wallet? Scroll down to confirm and click the Enter
         Button
 3. Congratulations! Your configuration files are saved and your ColdCard has been
    configured!
