@@ -28,7 +28,7 @@
          5. In the Sparrow Software (on the computer) click on "Import Keystore"
          6. Once imported, disconnect the Trezor and Plug in the ColdCard 
     iv. On the ColdCard Device
-         1. Enter the PIN Prefix PIN = 12, Recognize words? Yes. Click the Enter
+         1. Enter the PIN Prefix = 12, Recognize words? Yes. Click the Enter
             button (check mark), and enter Rest of PIN = 1234
          2. Navigate down and select Settings, then select Multisig Wallets, then
             select Export XPUB
