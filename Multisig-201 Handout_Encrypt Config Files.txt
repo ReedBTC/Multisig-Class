@@ -1,0 +1,36 @@
+﻿#4 Encrypting Your Wallet Backup Files
+
+1. Go to www.veracrypt.fr, and click on Downloads
+  a. Click on the Windows EXE Installer “VeraCrypt Setup 1.26.7.exe”
+2. Navigate to your downloads and run the VeraCrypt Installer
+  a. Perform a default installation and click “Finish”
+  b. Do you want to view the tutorial? Click “No”
+  c. Do you want to disable Fast Startup? Click “No”
+  d. Open VeraCrypt from the Windows Start menu. 
+3. In VeraCrypt, click “Create Volume”
+  a. Select “Create an encrypted file container” and click “Next”
+  b. Select “Standard VeraCrypt Volume” and click “Next”
+    i. Volume Location: Click “Select File”, navigate to Desktop and type a file
+       name: “Container.hc”, Click “Save”, and then click “Next”
+  c. Encryption Options: Leave Default Encryption Algorithm: AES and Hash 
+     Algorithm: SHA-512 and click “Next”
+  d. Volume Size: Type in 10 and select “MB” and Click “Next”
+  e. Volume Password
+    i. Type in the Password = BitcoinClassroom and confirm it by typing it again 
+       and click “Next”
+    ii. Use Short Password? Click “Yes”
+  f. Move your mouse around the VeraCrypt window until the bar at the bottom 
+     turns green and then Click “Format”
+    i. Click “OK” and then Click “Exit”
+4. Back on the VeraCrypt home screen, scroll down and Select Drive Z and then 
+   Click “Select File”
+  a. Navigate to Desktop and select Container.hc
+  b. Click Mount (while Drive Z is Selected)
+  c. Type in the Password [BitcoinClassroom] and Click OK
+5. Open the “Classroom Restore” folder on the Desktop
+  a. Copy your Multisig Wallet Backup Files and Paste them into Drive Z
+6. Go Back to VeraCrypt and Click Dismount
+7. Congratulations! Your files are now protected in an encrypted file container
+  a. To reopen the file just double click on Container.hc, select a drive, click
+     Mount and type your password.  The mounted drive will contain your encrypted
+     files.  
