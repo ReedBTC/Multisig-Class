@@ -1,0 +1,31 @@
+﻿#1a Restore a Multisig Wallet in Sparrow
+
+1. Go to www.Sparrowwallet.com, Click on Download, and Click on "Sparrow-1.8.2.exe"
+2. Navigate to your downloads and run the Sparrow Installer
+  a. Click "More Info" and Click "Run Anyway"
+  b. Once complete, open Sparrow from the Windows Start menu
+3. In the Sparrow Software (on the computer)
+  a. Click "Next", click "Next" again, click "Next" again then click "Configure
+     Server"
+  b. Leave the default connection to a public server and click "Test Connection"
+  c. When test is complete, click "Create New Wallet"
+    i. Close this window (we are restoring a wallet not creating a new one)
+4. Import Wallet: Click File > Import Wallet
+  a. Sparrow: Click "Import File..."
+  b. Navigate to Desktop\Classroom Restore\Classroom Restore-sparrow.mv.db
+  c. Enter a Name for this Wallet: Classroom Restore
+  d. No Password
+5. Configure Cold Card:
+  a. Plug your ColdCard SD card into the computer
+  b. Navigate to Desktop\Classroom Restore\ and copy the ColdCard backup file
+  c. Paste the ColdCard backup file onto the SD card
+  d. Remove your SD Card from the computer and put it back into the ColdCard
+  e. On the ColdCard Device:
+    i. Enter the PIN Prefix = 12, Recognize words? Yes. Click the Enter buttons
+       (check mark), and enter rest of PIN = 1234
+    ii. Navigate down and select "Settings", then select "Multisig Wallets", then
+        select "Import from File" and click the Enter button
+       1. Pick multisig wallt file to import (.txt) - There is only file to pick
+          from: Click the Enter button
+       2. Select the Classroom Test file and click the Enter Button
+       3. Create new Multisig Wallet? Scroll down and click the Enter button
