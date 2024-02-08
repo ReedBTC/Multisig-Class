@@ -23,8 +23,8 @@
     ii. In Sparrow Click the Button: Save Transaction
     iii. Navigate to the SD Card in the file explorer and click Save
     iv. Remove the SD Card from the computer and put it back into the ColdCard
-    v. On the ColdCard: Navigate back to the home screen of the ColdCard and Click
-       on "Ready to Sign"
+    v. On the ColdCard: Navigate back to the home screen of the ColdCard by 
+       clicking the X button a few times and Click on "Ready to Sign"
        1. If the fee is too high go back to the home screen by clicking the 
           X button a few times
        2. Navigate down and select "Settings", then scroll down and select 
