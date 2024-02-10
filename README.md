@@ -45,7 +45,7 @@ Part 3: Classroom Exercise: Restore in Nunchuk w/o HWWs & Sign Tx
 - [Video Overview](https://youtu.be/xdXzTEicorw)
 - Instruction Sheet ([Multisig Restore & Sign Tx in Nunchuk w/o HWWs](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Nunchuk%20Multisig%20Restore%20%26%20Sign%20with%20Seeds.txt))
 
-Part 4: Classroom Exercise: Encrypt Configuration Files with Veracrypt
+Part 4: Classroom Exercise: Encrypt Configuration Files with VeraCrypt
 -[ Video Overview](https://youtu.be/UWwgvDvM_NE)
 - Instruction Sheet ([VeraCrypt](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Encrypt%20Config%20Files.txt))
 
