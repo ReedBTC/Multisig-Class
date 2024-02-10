@@ -36,12 +36,15 @@ Multisig-201:
 Part 1: Classroom Exercise: Restore Multi-sig Wallet in Sparrow & Sign Tx
 - [Video Overview](https://youtu.be/IOUue4e4rzY)
 - Instruction Sheets ([Multisig Restore](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Sparrow%20Multisig%20Restore.txt), [Sign Tx in Sparrow](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Sign%20Tx%20in%20Sparrow.txt))
+
 Part 2: Classroom Exercise: Restore Multi-sig Wallet in Nunchuk & Sign Tx
 - [Video Overview](https://youtu.be/tBIILg5fVWo)
 - Instruction Sheets ([Multisig Restore](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Nunchuk%20Multisig%20Restore.txt), [Sign Tx in Nunchuk](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Sign%20Tx%20in%20Nunchuk.txt))
+
 Part 3: Classroom Exercise: Restore in Nunchuk w/o HWWs & Sign Tx
 - [Video Overview](https://youtu.be/xdXzTEicorw)
 - Instruction Sheet ([Multisig Restore & Sign Tx in Nunchuk w/o HWWs](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Nunchuk%20Multisig%20Restore%20%26%20Sign%20with%20Seeds.txt))
+
 Part 4: Classroom Exercise: Encrypt Configuration Files with Veracrypt
 -[ Video Overview](https://youtu.be/UWwgvDvM_NE)
 - Instruction Sheet ([VeraCrypt](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Encrypt%20Config%20Files.txt))
