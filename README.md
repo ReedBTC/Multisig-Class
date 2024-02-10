@@ -14,7 +14,7 @@ This is an in-person classroom course designed to give bitcoin users more experi
 
 Below are the links to the video overview as well as the in-class instruction sheets for both the Multisig-101 and Multisig-201 classes:
 
-Multisig-101:
+**Multisig-101:**
 
 Part 1: Classroom Exercise: Setting up the signing devices
 - Video Overview ([Ledger Nano S](https://youtu.be/poxWf5qDk_g), [Trezor One](https://youtu.be/jT6pW0XFYKI), [ColdCard Mk4](https://youtu.be/aPWbqBrlbAY))
@@ -31,7 +31,7 @@ Part 4: Multisig-201 Preview: Restore multi-sig wallet in Sparrow
 - [Video Overview](https://youtu.be/IOUue4e4rzY)
 - Instruction Sheets - for reference only ([Multisig Restore](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Sparrow%20Multisig%20Restore.txt), [Sign Tx in Sparrow](https://github.com/ReedBTC/Multisig-Class/blob/main/Multisig-201%20Handout_Sign%20Tx%20in%20Sparrow.txt))
 
-Multisig-201:
+**Multisig-201:**
 
 Part 1: Classroom Exercise: Restore Multi-sig Wallet in Sparrow & Sign Tx
 - [Video Overview](https://youtu.be/IOUue4e4rzY)
