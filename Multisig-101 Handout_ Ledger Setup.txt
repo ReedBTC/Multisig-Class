@@ -1,15 +1,16 @@
 ﻿#1 Setting up a Ledger Nano S
 
 1. Go to www.ledger.com, click on "Products", then click on "Download Ledger Live"
-	a. Click "Download the App" > Windows App
+	a. Click "Download for Windows"
 2. Navigate to your downloads and run the Ledger Live installer
 	a. Perform a default installation and check the box to “Run Ledger Live”
 3. In Ledger Live:
 	a. Click on "Get Started", click "Ledger Nano S", then click "Setup a New
 	   Nano S"
 	b. Click through the basics and then click "OK, I’m Ready!"
-	c. click that you understand that you need to keep your PIN private
-	d. click "Set up PIN code", click "Next Step", then click "Get Started"
+        c. Click Next step
+	d. Select that you understand that you need to keep your PIN private
+	e. Click "Set up PIN code", click "Next Step", then click "Get Started"
 4. Plug in Ledger (with the ledger branded USB cable)
 	a. On the Ledger Device: “Welcome to Ledger Nano S >”:
 		i. Use the buttons to navigate right and click both buttons when you
@@ -36,7 +37,7 @@
 		vi. Once you confirm all 24 words, click to the right and press both
  		    buttons when you see “Press both buttons to continue”
 	c. In Ledger Live:
-		i. click "OK I’m Don"e, then click "Get Started"
+		i. click "OK I’m Done", then click "Get Started"
 		ii. Take the quiz and then click "Next Step" 
 6. Genuine Check
 	a. In Ledger Live:
