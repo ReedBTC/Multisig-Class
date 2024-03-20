@@ -26,7 +26,7 @@
 		    all 24 words
 5. Set PIN
 	a. In Trezor Suite (Computer)
-		i. Click “Continue to PIN”
+		i. Click “Continue to PIN” then click "Set Pin"
 	b. On Trezor Device (Device)
 		i. Click Confirm
 	c. In Trezor Suite (Computer)
