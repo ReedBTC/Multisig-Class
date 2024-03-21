@@ -1,6 +1,6 @@
 ﻿#4 Setup a New Multisig Wallet in Sparrow
 
-1. Go to www.Sparrowwallet.com, Click on Download, and Click on "Sparrow-1.8.2.exe"
+1. Go to www.Sparrowwallet.com, Click on Download, and Click on "Sparrow-1.8.4.exe"
 2. Navigate to your downloads and run the Sparrow Installer
   a. Click "More Info" and Click "Run Anyway"
   b. Once complete, open Sparrow from the Windows Start menu
