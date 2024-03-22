@@ -2,7 +2,7 @@
 
 1. Go to www.nunchuk.io/, scroll to bottom of the page and click on "Download app 
    for Windows"
-  a. Click on "nunchuk-window-v1.9.28.zip" to download
+  a. Click on "nunchuk-window-v1.9.30.zip" to download
   b. Navigate to the Downloads folder in the file explorer, right click on the
      Nunchuk zip file and Select Extract All... then click "Extract"
 2. Run the Nunchuk.exe file in the folder that opens up
@@ -15,10 +15,10 @@
   a. Click "Add Hardware Key" then click "Continue"
     i. Plug your Ledger Device into the computer and on the Ledger Device:
       1. Enter PIN = 1234 and open the Bitcoin App by pressing both buttons
-    ii. In Nunchuk, click "Continue"
+    ii. In Nunchuk (on the computer)
       1. Key Name = Ledger Nano S
       2. Click Refresh Devices, select the ledger and click "Add Key"
-      3. Once it imports the key information, click "Close"
+      3. Once it imports the key information, click the "X" in the corner to close
 5. Add 2nd Key: In Nunchuk, click on the + sign next to "Keys" on the middle left
   a. Click "Add Hardware Key" then click "Continue" then Click "Add an air-gapped
      key"
@@ -36,7 +36,7 @@
     i. Navigate to the USB drive with the SD card in it, select the .json file and
        click "Open"
     ii. Add a key name = ColdCard
-    iii. Click Add Key then click "Close"
+    iii. Click "Add Key" then click the "X" in the corner to close
 6. Restore Wallet: In Nunchuk, click on the + sign next to "Wallets" in the top 
    left
   a. Click Import Wallet
