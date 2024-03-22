@@ -1,15 +1,15 @@
 ﻿#2b Sign Transaction in Nunchuk
 
 1. In Nunchuk, Under the Quick Receive address QR code, click "Copy"
-  a. Click the X in the Receive funds window
 2. Click on Send
   a. To Address: [Paste receive address]
   b. Amount: Click the check box to "Send all" then Click "Continue"
 3. Leave default send settings and click "Confirm and create transaction"
 4. ColdCard: Click Sign
   a. Remove the SD Card from the ColdCard and Plug it into the computer 
-  b. In Nunchuk, click "Export Transaction", save the .psbt file to the ColdCard
-     SD Card and plug the SD Card back into the ColdCard
+  b. In Nunchuk, next to ColdCard, click "Sign" then click "Export Transaction" 
+     save the .psbt file to the ColdCard SD Card and plug the SD Card back into 
+     the ColdCard
   c. On the ColdCard: navigate back to the home screen of the ColdCard by clicking
      the X button a few times and Click on "Ready to Sign"
   d. OK TO SEND? Click the Enter button
@@ -22,8 +22,8 @@
 6. Plug your Ledger Device into the computer and on the Ledger Device:
   a. Enter PIN = 1234 and open the Bitcoin App by pressing both buttons
 7. In Nunchuk: Click on "Sign" next to Ledger Nano S
-  a. To register the wallet, click to the right several times and click both 
-     buttons to approve
+  a. On the Ledger device, To register the wallet, click to the right several  
+     times and click both buttons to approve
   b. Approve Key 0 by clicking to the right several times and click both buttons 
      to approve
   c. Approve Key 1 by clicking to the right several times and click both buttons 
@@ -35,9 +35,9 @@
      and click both buttons to approve
   g. Confirm transaction fee by clicking to the right twice and click both buttons
      to Accept and Send 
-    i. At this point the transaction is signed and could be broadcast into the
-       mempool, however, we will just cancel the transaction to save the fees for
-       another class :)
+    i. DO NOT BROADCAST! At this point the transaction is signed and could be 
+       broadcast into the mempool, however, we will just cancel the transaction 
+       to save the fees for another class :)
       1. Click More Options
       2. Click Remove Transaction
 
