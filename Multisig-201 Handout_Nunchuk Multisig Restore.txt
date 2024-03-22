@@ -41,5 +41,5 @@
    left
   a. Click Import Wallet
   b. Click Recover via BSMS/descriptors/config file
-    i. Navigate to Desktop>Classroom Restore and select the .bsms file
+    i. Navigate to Desktop>Classroom Restore, click the .bsms file and hit "Open"
     ii. Click the X in the Wallet info window to close it
