@@ -4,8 +4,8 @@
   a. Click on Receive and copy the address shown
   b. Click on Send:
     i. Pay to: [Paste receive address]
-    ii. Label: test
-    iii. Amount: Max
+    ii. Label: Type "test"
+    iii. Amount: Click the "Max" Button
     iv. Fee Rates, etc.: Default
     v. Click Create Transaction
     vi. Click Finalize Transaction for Signing
@@ -16,7 +16,6 @@
         One shows up, click on "Unlock"
     iii. Look at the Trezor Device and click the associated location on the blank
          PIN pad in Sparrow (on the computer) (PIN = 1234); then click "Sign"
-    iv. From the dropdown next to Send Passphrase select "Toggle Passphrase Off"
     v. Confirm Spend and Fee on Device
   b. Sign with ColdCard
     i. Remove the SD Card from the ColdCard and Plug it into the computer
@@ -36,7 +35,7 @@
          the computer
     viii. In Sparrow, Click on Load Transaction and Navigate to the SD Card
        1. Select the psbt file that includes "-part"
-    ix. At this point the transaction is signed and could be broadcast into the
-        mempool, however, we will just cancel the transaction to save the fees 
-        for another class :)
+    ix. DO NOT BROASCAST! At this point the transaction is signed and could be 
+        broadcast into the mempool, however, we will just cancel the transaction  
+        to save the fees for another class :)
     x. Click the [x] in the test transaction tab in Sparrow
