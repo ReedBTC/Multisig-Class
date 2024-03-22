@@ -24,7 +24,7 @@
     i. Click “OK” and then Click “Exit”
 4. Back on the VeraCrypt home screen, scroll down and Select Drive Z and then 
    Click “Select File”
-  a. Navigate to Desktop and select Container.hc
+  a. Navigate to Desktop and select Container.hc and click "Open"
   b. Click Mount (while Drive Z is Selected)
   c. Type in the Password [BitcoinClassroom] and Click OK
 5. Open the “Classroom Restore” folder on the Desktop
